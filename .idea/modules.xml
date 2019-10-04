@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RouterDemo.iml" filepath="$PROJECT_DIR$/RouterDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/RouterDemo-app.iml" filepath="$PROJECT_DIR$/app/RouterDemo-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/RouterDemo-lib.iml" filepath="$PROJECT_DIR$/lib/RouterDemo-lib.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/lib/lib.iml" filepath="$PROJECT_DIR$/lib/lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project-RouterDemo.iml" filepath="$PROJECT_DIR$/project-RouterDemo.iml" />
     </modules>
   </component>
 </project>
